@@ -12,7 +12,7 @@
   },
   "keywords": ["notion", "markdown", "converter"],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "@notionhq/client": "^5.12.0",
@@ -21,3 +21,4 @@
     "fs-extra": "^11.3.4"
   }
 }
+
