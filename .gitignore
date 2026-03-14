@@ -16,6 +16,10 @@ yarn.lock
 # Output directory
 output/
 
+# Build artifacts
+.pkg-cache/
+dist/
+
 # IDE and editor files
 .vscode/
 .idea/

@@ -35,13 +35,23 @@
 
 ## 安装
 
-### 全局安装
+### 方式一：下载可执行文件（推荐）
+
+从 [GitHub Releases](https://github.com/your-username/notion-to-markdown/releases) 下载对应平台的可执行文件：
+
+- **Windows**: `dist-win.exe`
+- **macOS**: `dist-macos`
+- **Linux**: `dist-linux`
+
+下载后无需安装 Node.js，直接运行即可。
+
+### 方式二：全局安装（需要 Node.js）
 
 ```bash
 npm install -g .
 ```
 
-### 本地安装
+### 方式三：本地安装（需要 Node.js）
 
 ```bash
 npm install
