@@ -69,6 +69,19 @@ NOTION_API_TOKEN=your_notion_api_token_here
 
 ## 使用方法
 
+### 使用可执行文件
+
+Windows:
+```bash
+dist-win.exe --page <pageId>
+```
+
+macOS/Linux:
+```bash
+./dist-macos --page <pageId>
+./dist-linux --page <pageId>
+```
+
 ### 转换单个页面
 
 ```bash

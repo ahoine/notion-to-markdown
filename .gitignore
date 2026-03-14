@@ -19,6 +19,7 @@ output/
 # Build artifacts
 .pkg-cache/
 dist/
+releases/
 
 # IDE and editor files
 .vscode/
